@@ -220,7 +220,7 @@ export const fundamentalsCollection = {
 						{
 							name: "Flex",
 							description: {
-								text: "Learn how to create layouts using flexbox.",
+								text: "안녕하세요 박남규 입니다.",
 								links: [
 									["MDN - Flexbox", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox"],
 									["A Complete Guide to Flexbox", "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"],
